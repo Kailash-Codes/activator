@@ -3,7 +3,7 @@ name: Hello World Workflow
 on:
   push:
     branches:
-      - main
+      - 2-bug-fix-2
 
 jobs:
   say-hello:
